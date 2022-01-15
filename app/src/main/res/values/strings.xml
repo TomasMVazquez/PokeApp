@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PokeApp</string>
+    <string name="title_pokemon">Pokémon</string>
+
+    <string name="abilities">Habilidades:</string>
+    <string name="moves">Movimientos:</string>
+
+    <string name="weight">Peso:</string>
+    <string name="kg">kg.</string>
+
+    <string name="metres">mts.</string>
+    <string name="height">Altura:</string>
+    <string name="settings">Configuración</string>
+    <string name="filter">Tipos</string>
+
+    <string name="normal">Normal</string>
+    <string name="fighting">Lucha</string>
+    <string name="flying">Volador</string>
+    <string name="poison">Veneno</string>
+    <string name="ground">Tierra</string>
+    <string name="rock">Roca</string>
+    <string name="bug">Bicho</string>
+    <string name="ghost">Fantasma</string>
+    <string name="steel">Acero</string>
+    <string name="fire">Fuego</string>
+    <string name="water">Agua</string>
+    <string name="grass">Planta</string>
+    <string name="electric">Eléctrico</string>
+    <string name="psychic">Psíquico</string>
+    <string name="ice">Hielo</string>
+    <string name="dragon">Dragón</string>
+    <string name="dark">Siniestro</string>
+    <string name="fairy">Hada</string>
+    <string name="shadow">Sombra</string>
+    <string name="unknown">Desconocido</string>
+
+</resources>
